@@ -12,7 +12,7 @@
 다음은 발표 자료이다.
 
 <div style="display: flex; justify-content: center;">
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
       <td><img src="https://github.com/lhoju0158/SWAI_HACKATHON/assets/172701989/3b8b9a49-6594-4507-8afc-277f98546037" alt="image-1" width="400"></td>
       <td><img src="https://github.com/lhoju0158/SWAI_HACKATHON/assets/172701989/a72e0d94-4643-47d2-a55f-5bcb3b43c176" alt="image-2" width="400"></td>
