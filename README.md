@@ -6,7 +6,7 @@
 
 다음은 시연영상이다.
 <p align="center">
-  <img src="https://github.com/lhoju0158/SWAI_HACKATHON/assets/172701989/c2182642-c247-4ea1-a425-fdaab520e7f8" alt="Main Image](https://github.com/lhoju0158/SWAI_HACKATHON/assets/172701989/8b50baa3-1b47-41a8-a3ba-b3260ea20f4c">
+  <img src="https://github.com/lhoju0158/SWAI_HACKATHON/assets/172701989/2f4d79b4-fd19-4f32-8767-37989375c542">
 </p>
 
 다음은 발표 자료이다.
