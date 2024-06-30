@@ -8,17 +8,7 @@
 <p align="center">
 <img src="[https://github.com/lhoju0158/LPMS/assets/172701989/1462bc1d-55a3-407f-8601-ea2ebf48effd](https://github.com/lhoju0158/SWAI_HACKATHON/assets/172701989/c2182642-c247-4ea1-a425-fdaab520e7f8)">
 </p>
-
-![image-12(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/669bf72e-e581-4053-8bbc-8a3a1ffa6a31)
-![image-13(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/f7ee8cbb-389f-4cc1-a454-13dd08470a5d)
-![image-14(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/57bd61df-c422-4de0-8f2e-dfb4332ab33d)
-![image-15(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/cf2dfcf9-2a33-44a3-940e-8baad34543fc)
-![image-16(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/5d515db0-a8b5-4c11-96b3-29456cb4dfad)
-![image-17(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/9dd5207e-b798-4981-854d-8ee0145a4648)
-![image-18(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/87624830-9cf4-459b-9297-0eb6faf1205d)
-![image-19(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/df0e8784-1bef-4744-a1f2-81f3245fbb77)
-![image-20(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/635938f1-902d-4a70-9250-5f9c3e17bd7e)
-![image-1(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/27854a22-447c-4e32-b21d-c826753e4d2f)
+<p>![image-1(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/27854a22-447c-4e32-b21d-c826753e4d2f)
 ![image-2(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/68e00022-4f80-4d69-b470-80f4d0b01e99)
 ![image-3(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/eaa39f18-cc6e-4bf4-8a83-d49f1fcf5445)
 ![image-4(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/57054750-6149-4a23-8444-ab54547d38b3)
@@ -29,3 +19,13 @@
 ![image-9(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/0e3d2aaf-eea5-40f6-a004-a7a8ebe41689)
 ![image-10(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/b60e5497-8008-4d6e-93e7-704883cda279)
 ![image-11(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/68b1b967-0a1a-4aaf-b45a-3140f9d0d23b)
+![image-12(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/669bf72e-e581-4053-8bbc-8a3a1ffa6a31)
+![image-13(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/f7ee8cbb-389f-4cc1-a454-13dd08470a5d)
+![image-14(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/57bd61df-c422-4de0-8f2e-dfb4332ab33d)
+![image-15(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/cf2dfcf9-2a33-44a3-940e-8baad34543fc)
+![image-16(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/5d515db0-a8b5-4c11-96b3-29456cb4dfad)
+![image-17(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/9dd5207e-b798-4981-854d-8ee0145a4648)
+![image-18(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/87624830-9cf4-459b-9297-0eb6faf1205d)
+![image-19(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/df0e8784-1bef-4744-a1f2-81f3245fbb77)
+![image-20(Powered by MaxAI)](https://github.com/lhoju0158/LPMS/assets/172701989/635938f1-902d-4a70-9250-5f9c3e17bd7e)
+</p>
