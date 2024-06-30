@@ -1,0 +1,78 @@
+.bottom-nav-bar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #1e1e1e;
+  padding: 0px 5px;
+  border-radius: 20px;
+  position: fixed;
+  top: 810px; /* Fixing the position */
+  left: 20px; /* Fixing the position */
+  width: 340px;
+  z-index: 1000; /* Ensure it is always on top */
+  height: 70px; /* Increased height for larger circles */
+}
+
+.nav-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  height: 70px; /* Increased height for larger circles */
+  transition: transform 0.3s, background-color 0.3s;
+  border: none;
+  background: none;
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+}
+
+.icon {
+  width: 60px; /* Increased width for larger circles */
+  height: 60px; /* Increased height for larger circles */
+  border-radius: 50%;
+  background-color: #1e1e1e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative; /* Added to position the inner image */
+}
+
+.home-icon img {
+  width: 20px; /* Adjust size for Home icon */
+  height: 20px;
+  margin-bottom: 5px;
+}
+
+.report-icon img {
+  width: 30px; /* Adjust size for Report icon */
+  height: 30px;
+  margin-top: 3px;
+}
+
+.history-icon img {
+  width: 20px; /* Adjust size for History icon */
+  height: 20px;
+  margin-bottom: 2px;
+}
+
+.profile-icon img {
+  width: 20px; /* Adjust size for Profile icon */
+  height: 20px;
+}
+
+.selected {
+  transform: translateY(-20px);
+}
+
+.nav-item.selected .icon {
+  background-color: #ce1212;
+}
+
+.icon-image {
+  width: 10px;
+  height: 10px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}

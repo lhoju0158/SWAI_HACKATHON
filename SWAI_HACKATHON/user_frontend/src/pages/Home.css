@@ -1,0 +1,72 @@
+.Home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.Home .title-svg {
+  width: 150px; /* Adjust the width as needed */
+  margin-bottom: 80px;
+}
+
+.TimeSelectors {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  color: white;
+}
+
+.TimePart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
+
+.TimePart select {
+  text-align: center;
+  font-size: 70px;
+  font-weight: 500;
+  color: white;
+  background-color: black;
+  border: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.Separator {
+  font-size: 50px; /* Increased size */
+  font-weight: 700;
+  color: white;
+  display: flex;
+  align-items: center; /* Center align the separators */
+}
+
+.Buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+  margin-bottom: 120px;
+  cursor: pointer;
+}
+
+.Buttons button {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%; /* Make button circular */
+  background-color: gray;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.Buttons button img.arrowImage {
+  width: 70px; /* Increased size */
+  height: 70px; /* Increased size */
+}

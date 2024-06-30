@@ -1,0 +1,4 @@
+.Situation {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,30 @@
+.HistoryItem {
+  display: flex;
+  flex-direction: column;
+  padding: 5px 5px;
+}
+.HItem {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+.Htext {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.Htitle {
+  font-size: 15px;
+}
+.Hinfo {
+  font-size: 13px;
+  opacity: 0.6; /* Adjust the transparency here */
+}
+
+.HItem img {
+  background-color: gray;
+  padding: 10px 10px;
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+}

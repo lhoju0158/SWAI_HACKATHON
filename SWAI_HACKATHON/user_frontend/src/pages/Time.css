@@ -1,0 +1,241 @@
+.timer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  padding: 0px 20px;
+}
+.title-svg {
+  width: 120px;
+  margin-bottom: 25px;
+}
+.Title_T {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  box-sizing: border-box;
+}
+
+.TitleContainer_T {
+  display: flex;
+  justify-content: center;
+  flex: 1;
+  margin-bottom: 50px;
+}
+
+.Title_1,
+.Title_2 {
+  font-size: 20px;
+  padding-top: -10px;
+  padding-bottom: -15px;
+}
+
+.Title_2 {
+  background-color: red;
+}
+
+.settings-button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 24px;
+}
+
+.timer-circle {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  margin-bottom: 70px;
+}
+.timer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  padding: 0px 20px;
+}
+
+.Title_T {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  box-sizing: border-box;
+}
+
+.TitleContainer_T {
+  display: flex;
+  justify-content: center;
+  flex: 1;
+  margin-bottom: 50px;
+}
+
+.Title_1,
+.Title_2 {
+  font-size: 20px;
+}
+
+.Title_2 {
+  background-color: red;
+}
+
+.settings-button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 24px;
+}
+
+.timer-circle {
+  width: 200px;
+  height: 200px;
+  margin-top: 80px;
+  position: relative;
+  margin-bottom: 80px;
+}
+
+.emergency-button,
+.finish-button,
+.add-time-button {
+  width: 360px;
+  padding: 10px 0;
+  margin: 10px 0;
+  border: none;
+  border-radius: 25px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.emergency-button {
+  background-color: red;
+  color: white;
+}
+
+.finish-button,
+.add-time-button {
+  background-color: gray;
+  color: white;
+}
+
+.situation-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align items to the left */
+  margin-top: 25px;
+  width: 100%; /* Take full width */
+}
+
+.situation-buttons p {
+  margin-bottom: 20px;
+  margin-top: -10px;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.situation-button-item {
+  display: flex;
+  align-items: center; /* Center items vertically */
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.situation-button-image {
+  width: 25px;
+  height: 25px;
+  padding: 5px;
+  margin-right: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgba(
+    255,
+    0,
+    0,
+    0.3
+  ); /* Make background moderately transparent */
+  cursor: pointer;
+}
+
+.sbit {
+  width: 100px;
+}
+
+.Modal__Overlay {
+  z-index: 1000;
+}
+
+.emergency-button,
+.finish-button,
+.add-time-button {
+  width: 360px;
+  padding: 10px 0;
+  margin: 10px 0;
+  border: none;
+  border-radius: 25px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.emergency-button {
+  background-color: red;
+  color: white;
+}
+
+.finish-button,
+.add-time-button {
+  background-color: gray;
+  color: white;
+}
+
+.situation-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align items to the left */
+  margin-top: 25px;
+  width: 100%; /* Take full width */
+}
+
+.situation-buttons p {
+  margin-bottom: 20px;
+  margin-top: -10px;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.situation-button-item {
+  display: flex;
+  align-items: center; /* Center items vertically */
+  margin-bottom: 10px;
+}
+
+.situation-button-image {
+  width: 25px;
+  height: 25px;
+  padding: 5px;
+  margin-right: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgba(
+    255,
+    0,
+    0,
+    0.3
+  ); /* Make background moderately transparent */
+  cursor: pointer;
+}
+
+.sbit {
+  width: 100px;
+}
+
+.Modal__Overlay {
+  z-index: 1000;
+}

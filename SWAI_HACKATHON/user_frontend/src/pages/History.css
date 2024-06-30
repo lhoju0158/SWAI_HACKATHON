@@ -1,0 +1,65 @@
+.Title_H {
+  display: flex;
+  justify-content: center; /* Center the SVG image */
+  align-items: center;
+  width: 100%; /* Ensure title takes full width */
+  box-sizing: border-box; /* Include padding in the width calculation */
+}
+
+.title-svg {
+  width: 150px; /* Adjust the width as needed */
+}
+
+.Historys {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 15px 15px;
+}
+
+.Htt {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.HistoryItem {
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.HItem {
+  display: flex;
+  align-items: center;
+}
+
+.HItem img {
+  margin-right: 10px;
+}
+
+.Htext {
+  display: flex;
+  flex-direction: column;
+}
+
+.Htitle {
+  font-size: 16px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  gap: 2px;
+}
+
+.Hinfo {
+  font-size: 14px;
+  color: gray;
+}
+
+.highlight {
+  color: #ce1212;
+  font-weight: 500;
+  font-size: 12px;
+  margin-left: 5px;
+  padding-top: 3px;
+}

@@ -1,0 +1,37 @@
+.search-bar {
+  position: absolute;
+  top: 15px; /* Adjust as needed to position it correctly */
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  background: gray; /* Semi-transparent background */
+  border-radius: 20px;
+  padding: 10px 20px; /* Adjust padding for a larger input field */
+  display: flex;
+  align-items: center;
+  width: 320px;
+  height: 30px;
+  max-width: 600px; /* Adjust max-width as needed */
+  color: white;
+}
+
+.search-bar input {
+  width: 100%;
+  border: none;
+  outline: none;
+  padding: 10px;
+  background-color: transparent;
+  border-radius: 20px;
+  color: white;
+  font-size: 16px;
+}
+
+.search-bar input::placeholder {
+  color: white; /* Ensure placeholder text is white */
+}
+
+.search-icon {
+  width: 20px; /* Adjust size as needed */
+  height: 20px;
+  margin-right: 10px; /* Space between icon and input */
+}
