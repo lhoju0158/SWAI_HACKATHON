@@ -5,10 +5,12 @@
 치안을 위협받는 상황에서, 신고 이외에 불안감 해소 및 범죄예방을 할 수 있는 수단 제공
 행정안전부의 생활안전지도 데이터, 사용자 위치로그에 기반해 치안 불안감 해소와 범죄예방목적의 위험 타이머 리포트 어플 개발
 
+다음은 시연영상이다.
 <p align="center">
   <img src="https://github.com/lhoju0158/SWAI_HACKATHON/assets/172701989/c2182642-c247-4ea1-a425-fdaab520e7f8" alt="Main Image">
 </p>
 
+다음은 발표 자료이다.
 <div style="display: flex; overflow-x: auto; white-space: nowrap;">
   <img src="https://github.com/lhoju0158/LPMS/assets/172701989/27854a22-447c-4e32-b21d-c826753e4d2f" alt="image-1" style="flex: 0 0 auto; margin-right: 10px;">
   <img src="https://github.com/lhoju0158/LPMS/assets/172701989/68e00022-4f80-4d69-b470-80f4d0b01e99" alt="image-2" style="flex: 0 0 auto; margin-right: 10px;">
